@@ -1,0 +1,282 @@
+{
+  "featured_ids": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    3
+  ],
+  "publications": [
+    {
+      "id": 1,
+      "title": "STAR Protocol for genomic surveillance of Plasmodium falciparum antigens using amplicon-based PacBio long-read sequencing",
+      "citation": "Plaza DF†. STAR Protocol for genomic surveillance of Plasmodium falciparum antigens using amplicon-based PacBio long-read sequencing. Cell Press STAR Protocols. 2025. 2025 Sep 15;6(4):104093",
+      "year": 2025,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance"
+      ],
+      "link": null
+    },
+    {
+      "id": 2,
+      "title": "Antigenic and Structural Diversity of the Intrinsically Disordered Malaria Vaccine Candidates CSP and MSP2",
+      "citation": "Braeken R, Margerie L, Osterholz H, Zerebinski J, Tamm KP, Färnert A, Sundling C, Hanke L, Chan SCL, Plaza DF†. Antigenic and Structural Diversity of the Intrinsically Disordered Malaria Vaccine Candidates CSP and MSP2. SSRN Preprints with the Lancet. 2025 Aug 8. http://dx.doi.org/10.2139/ssrn.5373745.",
+      "year": 2025,
+      "type": "preprint",
+      "topics": [
+        "AlphaFold / structure",
+        "Immunology",
+        "Preprints"
+      ],
+      "link": "http://dx.doi.org/10.2139/ssrn.5373745"
+    },
+    {
+      "id": 3,
+      "title": "Uncovering the genetic diversity of the malaria parasite antigen MSP2 across Sub-Saharan Africa",
+      "citation": "Zerebinski J, Broumou I, Kimenyi KM, Aklilu E, Andrade CM, Babiker H, Bejon P, Cherif MK, Crompton PD, Fançony C, Foroogh F, Gil JP, Kapulu M, Kiwuwa SM, Kweku MA, Liljander A, Lopes D, Marsh K, Mutemi DD, Ngasala B, Normark J, Orikiiriza J, Persson KEM, Portugal S, Ribacke U, Sirima SB, Sondén K, de Sousa TN, Traore B, Tijani MK, Eckerdal N, Villner P, Ochola- Oyier LI, Plaza DF, Färnert A. Uncovering the genetic diversity of the malaria parasite antigen MSP2 across Sub-Saharan Africa. bioRxiv. 2025. https://doi.org/10.1101/2025.07.23.666329.",
+      "year": 2025,
+      "type": "preprint",
+      "topics": [
+        "Preprints"
+      ],
+      "link": "https://doi.org/10.1101/2025.07.23.666329"
+    },
+    {
+      "id": 4,
+      "title": "Structure and function of a fungal AB toxin-like chimerolectin involved in anti-nematode defense",
+      "citation": "Schmieder SS, Cordara G, Kersten F, Steiner K, Samin CH, Plaza DF, Ahmad AA, Boggild A, Karlsen JL, Sokolowska BO, Boesen T, Krengel U, Kunzler M. Structure and function of a fungal AB toxin-like chimerolectin involved in anti-nematode defense. bioRxiv. 2025. doi: https://doi.org/10.1101/2025.07.23.666329.",
+      "year": 2025,
+      "type": "preprint",
+      "topics": [
+        "AlphaFold / structure",
+        "Preprints"
+      ],
+      "link": "https://doi.org/10.1101/2025.07.23.666329"
+    },
+    {
+      "id": 5,
+      "title": "Naturally acquired IgG responses to Plasmodium falciparum do not target the conserved termini of the malaria vaccine candidate Merozoite Surface Protein 2",
+      "citation": "Zerebinski J, Margerie L, Han NS, Moll M, Ritvos M, Jahnmatz P, Ahlborg N, Ngasala B, Rooth I, Sjöberg R, Sundling C, Yman V, Färnert A, Plaza DF†. Naturally acquired IgG responses to Plasmodium falciparum do not target the conserved termini of the malaria vaccine candidate Merozoite Surface Protein 2. Front Immunol. 2024 Dec 9;15:1501700.",
+      "year": 2024,
+      "type": "peer-reviewed",
+      "topics": [
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 6,
+      "title": "Progress in malaria genomic surveillance using long-read sequencing",
+      "citation": "Zerebinski J, Plaza DF†. Progress in malaria genomic surveillance using long-read sequencing. Trends Parasitol. 2024 Nov;40(11):956-958.",
+      "year": 2024,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance"
+      ],
+      "link": null
+    },
+    {
+      "id": 7,
+      "title": "A genomic platform for epidemiological surveillance and vaccine antigen discovery using long-read amplicon sequencing",
+      "citation": "Plaza DF†, Zerebinski J, Broumou I, Lautenbach MJ, Ngasala B, Sundling C, Färnert A. A genomic platform for epidemiological surveillance and vaccine antigen discovery using long-read amplicon sequencing. Cell Rep Methods. 2023 Sep 25;3(9):100574",
+      "year": 2023,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance",
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 8,
+      "title": "Genotyping of Plasmodium falciparum to Assess Clone Composition in Parasite Cultures",
+      "citation": "Broumou I, Plaza DF, Färnert A. Genotyping of Plasmodium falciparum to Assess Clone Composition in Parasite Cultures. Methods Mol Biol. 2022;2470:51-68",
+      "year": 2022,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance"
+      ],
+      "link": null
+    },
+    {
+      "id": 9,
+      "title": "Cocaprins, β-Trefoil Fold Inhibitors of Cysteine and Aspartic Proteases from Coprinopsis cinerea",
+      "citation": "Renko M, Zupan T, Plaza DF, Schmieder SS, Perišić Nanut M, Kos J, Turk D, Künzler M, Sabotič J. Cocaprins, β-Trefoil Fold Inhibitors of Cysteine and Aspartic Proteases from Coprinopsis cinerea. Int J Mol Sci. 2022 Apr 28; 23(9):4916.",
+      "year": 2022,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 10,
+      "title": "Systems analysis shows a role of cytophilic antibodies in shaping innate tolerance to malaria",
+      "citation": "Lautenbach JM, Yman V, Kadri N, Plaza DF, Angenendt S, Sonden K, Farnert A, Sundling C. Systems analysis shows a role of cytophilic antibodies in shaping innate tolerance to malaria. Cell Rep. 2021. 2022 Apr 19; 39(3):110709.",
+      "year": 2022,
+      "type": "peer-reviewed",
+      "topics": [
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 11,
+      "title": "Structure-function relationship of a novel fucoside-binding fruiting body lectin with nematotoxic activity from Coprinopsis cinerea",
+      "citation": "Bleuler-Martinez S, Varrot A, Olieric V, Schubert M, Vogt E, Fetz C, Wohlschlager T, Plaza DF, Wälti M, Duport Y, Capitani G, Aebi M, Künzler M. Structure-function relationship of a novel fucoside-binding fruiting body lectin with nematotoxic activity from Coprinopsis cinerea. Glycobiology. 2022 Jun 13; 32(7):600-615.",
+      "year": 2022,
+      "type": "peer-reviewed",
+      "topics": [
+        "AlphaFold / structure"
+      ],
+      "link": null
+    },
+    {
+      "id": 12,
+      "title": "A novel platform for peptide-mediated affinity capture and LC-MS/MS identification of host receptors involved in Plasmodium invasion",
+      "citation": "Molina-Franky J, Plaza DF#, Merali C, Merali S, Barrero C, Arévalo-Pinzón G, Patarroyo ME, Patarroyo MA. A novel platform for peptide-mediated affinity capture and LC-MS/MS identification of host receptors involved in Plasmodium invasion. J Proteomics. 2020. Oct 9; 231: 104002.",
+      "year": 2020,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 13,
+      "title": "Patarroyo MA",
+      "citation": "Plaza DF, Gómez MF, Manuel A. Patarroyo MA. NHP-Immunome: A translational research-oriented database of non-human primate immune system proteins. Cell Immunol. 2020, Jan; 347: 103999*.",
+      "year": 2020,
+      "type": "peer-reviewed",
+      "topics": [
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 14,
+      "title": "Immunocompetent patient with a brain abscess caused by Nocardia beijingensis in Latin America: A case report",
+      "citation": "Solano-Varela DM, Barrios-Vidales EM, Plaza DF#, Riveros WM, Guzmán J, Chica CE, Patarroyo MA. Immunocompetent patient with a brain abscess caused by Nocardia beijingensis in Latin America: A case report. Medicine (Baltimore). 2019, Mar; 98(11): e14879*.",
+      "year": 2019,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 15,
+      "title": "Toxicity of potential fungal defense proteins towards the fungivorous nematodes Aphelenchus avenae and Bursaphelenchus okinawaensis",
+      "citation": "Tayyrov A, Schmieder SS, Bleuler-Martinez S, Plaza DF, Künzler M. Toxicity of potential fungal defense proteins towards the fungivorous nematodes Aphelenchus avenae and Bursaphelenchus okinawaensis. Appl Environ Microbiol. 2018, Sep 21*.",
+      "year": 2018,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 16,
+      "title": "Coprinopsis cinerea intracellular lactonases hydrolyze quorum sensing molecules of Gram-negative bacteria",
+      "citation": "Stöckli M, Lin CW, Sieber R, Plaza DF, Ohm RA, Künzler M. Coprinopsis cinerea intracellular lactonases hydrolyze quorum sensing molecules of Gram-negative bacteria. Fungal Genet Biol. 2016, pii: S1087-1845(16)30081-0*.",
+      "year": 2016,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 17,
+      "title": "Identification of a novel nematotoxic protein by challenging the model mushroom Coprinopsis cinerea with a fungivorous nematode",
+      "citation": "Plaza DF, Schmieder SS, Lipzen A, Lindquist E, Künzler. Identification of a novel nematotoxic protein by challenging the model mushroom Coprinopsis cinerea with a fungivorous nematode. G3 (Bethesda). 2015, 6(1): 87-98*.",
+      "year": 2015,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 18,
+      "title": "Comparative transcriptomics of the model mushroom Coprinopsis cinerea reveals tissue-specific armories and a conserved circuitry for sexual development",
+      "citation": "Plaza DF, Chia-Wei L, van der Velden NSJ, Aebi M, Künzler M. Comparative transcriptomics of the model mushroom Coprinopsis cinerea reveals tissue-specific armories and a conserved circuitry for sexual development. BMC Genomics. 2014, 15: 492*.",
+      "year": 2014,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance"
+      ],
+      "link": null
+    },
+    {
+      "id": 19,
+      "title": "Galactosylated fucose epitopes in nematodes: increased expression in a Caenorhabditis mutant associated with altered lectin sensitivity and occurrence in parasitic species",
+      "citation": "Yan S, Bleuler-Martinez S, Plaza DF, Künzler M, Aebi M, Joachim A, Razzazi-Fazeli E, Jantsch V, Geyer R, Wilson IB, Paschinger K. Galactosylated fucose epitopes in nematodes: increased expression in a Caenorhabditis mutant associated with altered lectin sensitivity and occurrence in parasitic species. J Biol Chem. 2012, 287: 28276-28290.",
+      "year": 2012,
+      "type": "peer-reviewed",
+      "topics": [
+        "AlphaFold / structure"
+      ],
+      "link": null
+    },
+    {
+      "id": 20,
+      "title": "An experimental approach to studying the effectiveness and safety of meglumine antimoniate formulations",
+      "citation": "Delgado G, Sánchez Y, Plaza D, Mariño A, Granados D. An experimental approach to studying the effectiveness and safety of meglumine antimoniate formulations. Biomed Pharmacother. 2011, 65: 569-577.",
+      "year": 2011,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 21,
+      "title": "Peptides derived from the Mycobacterium tuberculosis Rv1490 surface protein implicated in inhibition of epithelial cell entry: potential vaccine candidates? Vaccine",
+      "citation": "Patarroyo ME, Curtidor H,  Plaza DF, Ocampo M, Reyes C, Saboya O, Barrera G, Patarroyo MA. Peptides derived from the Mycobacterium tuberculosis Rv1490 surface protein implicated in inhibition of epithelial cell entry: potential vaccine candidates? Vaccine. 2008, 26: 4387-4395.",
+      "year": 2008,
+      "type": "peer-reviewed",
+      "topics": [
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 22,
+      "title": "Functional characterization of the Mycobacterium tuberculosis Rv2969c membrane protein",
+      "citation": "Patarroyo MA, Plaza DF, Ocampo M, Curtidor H, Forero M, Rodríguez LE, Patarroyo ME. Functional characterization of the Mycobacterium tuberculosis Rv2969c membrane protein. Biochem Biophys Res Commun. 2008, 372: 935-940.",
+      "year": 2008,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 23,
+      "title": "Characterising the Mycobacterium tuberculosis Rv2707 protein and determining its sequences which specifically bind to two human cell lines",
+      "citation": "Chapeton-Montes JA, Plaza DF, Curtidor H, Forero M, Vanegas M, Patarroyo ME, Patarroyo MA. Characterising the Mycobacterium tuberculosis Rv2707 protein and determining its sequences which specifically bind to two human cell lines. Protein Sci. 2008, 17: 342-351.",
+      "year": 2008,
+      "type": "peer-reviewed",
+      "topics": [
+        "Genomic surveillance"
+      ],
+      "link": null
+    },
+    {
+      "id": 24,
+      "title": "Quantitative flow cytometric monitoring of invasion of epithelial cells by Mycobacterium tuberculosis",
+      "citation": "Chapeton JA, Plaza DF, Barrero CA., Patarroyo MA. Quantitative flow cytometric monitoring of invasion of epithelial cells by Mycobacterium tuberculosis. Front Biosci. 2008, 13: 650-656.",
+      "year": 2008,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    },
+    {
+      "id": 25,
+      "title": "Characterizing the effect of pentamidine isethionate on the immune system, using mouse splenocytes as experimental model",
+      "citation": "Plaza DF, Mariño A, Delgado G. Characterizing the effect of pentamidine isethionate on the immune system, using mouse splenocytes as experimental model. Journal of Immunotoxicology. 2007, 4: 279-285.",
+      "year": 2007,
+      "type": "peer-reviewed",
+      "topics": [
+        "Immunology"
+      ],
+      "link": null
+    },
+    {
+      "id": 26,
+      "title": "The Mycobacterium tuberculosis membrane protein Rv2560: biochemical and functional studies",
+      "citation": "Plaza DF, Curtidor H, Patarroyo MA, Chapeton-Montes JA, Reyes C, Barreto J, Patarroyo ME. The Mycobacterium tuberculosis membrane protein Rv2560: biochemical and functional studies. FEBS Journal. 2007, 274: 6352-6364.",
+      "year": 2007,
+      "type": "peer-reviewed",
+      "topics": [],
+      "link": null
+    }
+  ]
+}
