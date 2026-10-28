@@ -14,3 +14,5 @@ Retrieved on 2026-10-28. Logos identify the employers and educational institutio
 | fidic.png | Fundación Instituto de Inmunología de Colombia's company logo from its own profile: https://www.linkedin.com/company/fidic-colombia |
 
 FIDIC's own website was unavailable. The image incorrectly labelled FIDIC in the IDCBIS directory was rejected because it depicts the unrelated International Federation of Consulting Engineers. The included medical/South America mark is the logo displayed on the Colombian institute's own LinkedIn profile.
+
+The CV uses `uppsala-compact.svg`, a copy of the official Uppsala logo with its outer blank canvas trimmed through the SVG viewBox (`32.5 37.5 225 215`). All paths, colours, the seal and the full wordmark are unchanged.
