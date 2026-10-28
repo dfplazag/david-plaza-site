@@ -525,13 +525,13 @@ code{
 .timeline-date{
   color: var(--muted);
   font-weight: 800;
-  padding-top: 9px;
+  padding-top: 19px;
   line-height: 1.4;
 }
 .timeline-body{
   min-width: 0;
   display: grid;
-  grid-template-columns: 88px minmax(0, 1fr);
+  grid-template-columns: 132px minmax(0, 1fr);
   column-gap: 16px;
   align-items: start;
 }
@@ -554,13 +554,13 @@ code{
   display: contents;
 }
 .inst-logo{
-  --logo-width: 32px;
-  --logo-height: 32px;
+  --logo-width: 48px;
+  --logo-height: 48px;
   grid-column: 1;
   grid-row: 1;
   align-self: center;
-  width: 88px;
-  height: 40px;
+  width: 132px;
+  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -570,20 +570,20 @@ code{
   width: var(--logo-width);
   height: var(--logo-height);
   max-width: 100%;
-  max-height: 40px;
+  max-height: 60px;
   object-fit: contain;
 }
-.inst-logo--karolinska{ --logo-width: 88px; --logo-height: 36px; }
-.inst-logo--eth{ --logo-width: 88px; --logo-height: 18px; }
-.inst-logo--harvard{ --logo-width: 40px; --logo-height: 40px; }
-.inst-logo--fidic{ --logo-width: 40px; --logo-height: 40px; }
-.inst-logo--uppsala{ --logo-width: 40px; --logo-height: 40px; }
-.inst-logo--unal{ --logo-width: 32px; --logo-height: 40px; }
+.inst-logo--karolinska{ --logo-width: 132px; --logo-height: 54px; }
+.inst-logo--eth{ --logo-width: 132px; --logo-height: 27px; }
+.inst-logo--harvard{ --logo-width: 60px; --logo-height: 60px; }
+.inst-logo--fidic{ --logo-width: 60px; --logo-height: 60px; }
+.inst-logo--uppsala{ --logo-width: 60px; --logo-height: 60px; }
+.inst-logo--unal{ --logo-width: 48px; --logo-height: 60px; }
 .inst-name{
   grid-column: 2;
   grid-row: 1;
   min-width: 0;
-  min-height: 40px;
+  min-height: 60px;
   display: flex;
   align-items: center;
   line-height: 1.4;
@@ -630,11 +630,11 @@ code{
     padding-top: 0;
   }
   .timeline-body{
-    grid-template-columns: 64px minmax(0, 1fr);
+    grid-template-columns: 96px minmax(0, 1fr);
     column-gap: 12px;
   }
   .inst-logo{
-    width: 64px;
+    width: 96px;
   }
   .timeline-body > p,
   .timeline-body > ul{
